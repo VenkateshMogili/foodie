@@ -23,7 +23,7 @@
     "react-app-rewired": "^2.1.6",
     "react-art": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-native": "0.62.2",
+    "react-native": "0.82.1",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-grid-component": "^2.0.1",
     "react-native-reanimated": "^1.8.0",
@@ -38,7 +38,7 @@
     "react-navigation-tabs": "^2.8.13",
     "react-router-dom": "^5.1.2",
     "react-router-native": "^5.1.2",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
@@ -46,7 +46,7 @@
     "@react-native-community/eslint-config": "^0.0.5",
     "babel-jest": "^23.4.2",
     "babel-loader": "^8.1.0",
-    "eslint": "^6.5.1",
+    "eslint": "^9.39.1",
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.58.0",
     "react-test-renderer": "16.11.0"
